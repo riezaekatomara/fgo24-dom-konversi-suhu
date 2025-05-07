@@ -62,11 +62,10 @@ A web application for temperature conversion between Celsius, Fahrenheit, Kelvin
 
 ```
 fgo24-konversi-suhu/
-├── public/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
+├── css/
+│   ├── styles.css/
+├── js/
+│   ├── script.js/
 ├── index.html
 ├── package.json
 ├── package-lock.json
